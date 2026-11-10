@@ -25,3 +25,4 @@ class festa(models.Model):
     pessoa_responsavel = models.ForeignKey(Responsavel, on_delete=models.CASCADE)
 
 
+# Create your models here.
