@@ -26,3 +26,4 @@ class festa(models.Model):
 
 
 # Create your models here.
+>>>>>>> b64b4890ce445ee33a56ad1edc8cc26b33835120
